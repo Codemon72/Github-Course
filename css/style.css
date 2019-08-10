@@ -1,6 +1,6 @@
-
 h1 {
   color: green;
+  font-size: 34px;
 }
 
 p {
@@ -11,5 +11,15 @@ p {
   font-variant: small-caps;
   background: black;
   color: white;
+  font-size: 20px;
 }
 
+body {
+  text-align: center;
+}
+
+div {
+  max-width: 30%;
+  display: inline-block;
+  margin: 3%;
+}
