@@ -1,6 +1,6 @@
-
 h1 {
   color: green;
+  font-size: 34px;
 }
 
 p {
@@ -11,7 +11,13 @@ p {
   font-variant: small-caps;
   background: lightblue;
   color: white;
+  font-size: 20px;
 }
+
+body {
+  text-align: center;
+}
+
 
 .kitty{
   padding-top: 85px;
