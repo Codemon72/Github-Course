@@ -9,7 +9,7 @@ p {
 
 * {
   font-variant: small-caps;
-  background: black;
+  background: lightblue;
   color: white;
   font-size: 20px;
 }
@@ -18,8 +18,12 @@ body {
   text-align: center;
 }
 
-div {
-  max-width: 30%;
-  display: inline-block;
-  margin: 3%;
+
+.kitty{
+  padding-top: 85px;
+  padding-bottom: 85px;
 }
+.img-kitty{
+  border: 1px rgb(255,255,255) solid;
+}
+
