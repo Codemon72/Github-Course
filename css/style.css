@@ -2,3 +2,12 @@
 h1 {
   color: green;
 }
+
+p {
+  color: blue;
+}
+
+* {
+  font-variant: small-caps;
+}
+
