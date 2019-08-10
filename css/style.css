@@ -9,5 +9,7 @@ p {
 
 * {
   font-variant: small-caps;
+  background: black;
+  color: white;
 }
 
